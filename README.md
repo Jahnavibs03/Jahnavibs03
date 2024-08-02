@@ -36,3 +36,6 @@ Hi, I'm Jahnavi B S, a Computer Science student with a passion for exploring new
 > _**The only way to do great work is to love what you do.**_
 
 ![Profile views](https://komarev.com/ghpvc/?username=Jahnavibs03)
+
+## Leetcode
+![](https://leetcard.jacoblin.cool/jahnavibs2003?site=cn)
